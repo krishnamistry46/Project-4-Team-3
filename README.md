@@ -35,10 +35,12 @@ Data Ingestion: The raw data is collected and pre-processed.
 Data Transformation: The data is cleaned, normalized, and reshaped to be used in different models.
 Data Storage: Processed data is stored locally for future reference and analysis.
 Local Storage Layout
+
 Raw Data: ../data/raw/
+
 Processed Data: ../data/processed/
+
 Notebooks: ../notebook/
-Output and Visualizations: ../output/
 
 # Data Preparation
 Scaling and Encoding: The data values were scaled using MinMaxScaler to fit the range [0, 1]. Non-numerical columns were encoded as needed.
