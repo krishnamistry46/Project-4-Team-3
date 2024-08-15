@@ -20,7 +20,7 @@ The Tableau public visualization can be accessed here.
 Usage
 The Jupyter notebook analysis.ipynb contains all the steps for data processing, modeling, and generating visualizations.
 The Tableau story can be viewed online using the provided link to explore the results interactively.
-https://public.tableau.com/authoring/Air_Quality-MichaelE/Story3#1
+[https://public.tableau.com/authoring/Air_Quality-MichaelE/Story3#1](https://public.tableau.com/views/Air_Quality-MichaelE/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Key Findings
 Asthma Emergency Department Visits and Fine Particles (PM 2.5):
