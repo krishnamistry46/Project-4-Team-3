@@ -16,28 +16,12 @@ The correlation between PM 2.5 levels and asthma emergency department visits.
 The relationship between deaths due to PM 2.5 and cardiovascular hospitalizations (age 40+).
 The correlation between respiratory hospitalizations (age 20+) and deaths due to PM 2.5.
 The Tableau public visualization can be accessed here.
-Installation
-To run the code locally:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-repo/air-quality-health-impact.git
-cd air-quality-health-impact
-Install the necessary packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the analysis notebook:
-
-bash
-Copy code
-jupyter notebook analysis.ipynb
 Usage
 The Jupyter notebook analysis.ipynb contains all the steps for data processing, modeling, and generating visualizations.
 The Tableau story can be viewed online using the provided link to explore the results interactively.
+https://public.tableau.com/authoring/Air_Quality-MichaelE/Story3#1
+
 Key Findings
 Asthma Emergency Department Visits and Fine Particles (PM 2.5):
 
