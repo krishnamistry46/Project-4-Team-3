@@ -11,6 +11,7 @@ Air pollution is a critical environmental threat impacting urban populations, pa
 - Which neighborhoods consistently show high levels of PM 2.5 and SO2 emissions?
 # Data source and link
 - NYC Air Quality Surveillance Data (Uploaded as Air_Quality_20240801.csv
+- Original data set: https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r/about_data
 
 # Challenge
 This project aims to analyze the relationship between air quality indicators, such as PM 2.5 levels, and various health outcomes, including asthma emergency department visits, cardiovascular hospitalizations, and respiratory hospitalizations across different neighborhoods. We implemented both traditional statistical models (e.g., ARIMA) and deep learning models (e.g., Convolutional Neural Networks) to uncover correlations and make predictions based on historical data.
